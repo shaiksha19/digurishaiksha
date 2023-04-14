@@ -1,1 +1,9 @@
-
+const userSchema = new Schema({
+   Get Food: String,
+   Post Food: String,
+   Update Food: String,
+   Detele Food: String,
+   Post Order: String,
+   Update Order: String,
+   Get Orders: String
+});
