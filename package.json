@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-restful-api",
+  "version": "1.0.0",
+  "description": "to build a Node.js application that serves as a RESTful API",
+  "author": "diguri shaikshavali <shaikshavali191020001@gmail.com.com>",
+  "main": "code.js",
+  "license": "MIT",
+  "repository": "",
+  "scripts": {
+    "start": "node code.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
